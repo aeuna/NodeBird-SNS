@@ -8,12 +8,9 @@ export const initialState = {
       },
       content: "첫 번째 게시글 2020년 시간표 #휴학 #그립다",
       Images: [
-        {
-          src: "https://lh6.googleusercontent.com/_ozDp-NXczzPCQV-KI7QaqcN1B_tkZBw97nuTnEt0Eg8gI7mND571HHII5TkAhZmvZZ4eozIvovE4oUWYEtO=w1919-h874",
-        },
-        {
-          src: "https://lh6.googleusercontent.com/_ozDp-NXczzPCQV-KI7QaqcN1B_tkZBw97nuTnEt0Eg8gI7mND571HHII5TkAhZmvZZ4eozIvovE4oUWYEtO=w1919-h874",
-        },
+        { src: "https://ifh.cc/g/K77ZOV.jpg" },
+        { src: "https://ifh.cc/g/K77ZOV.jpg" },
+        { src: "https://ifh.cc/g/K77ZOV.jpg" },
       ],
       Comments: [
         {
