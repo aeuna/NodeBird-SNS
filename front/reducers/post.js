@@ -40,9 +40,9 @@ const dummyPost = {
   id: 2,
   User: {
     id: 2,
-    nickname: "eunah",
+    nickname: "euna",
   },
-  content: "첫 번째 게시글 2020년 시간표 #휴학 #그립다",
+  content: "두 번째 게시글 더미데이터임",
   Images: [],
   Comments: [],
 };
