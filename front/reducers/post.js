@@ -7,7 +7,11 @@ export const initialState = {
         nickname: "eunah",
       },
       content: "첫 번째 게시글 2020년 시간표 #휴학 #그립다",
-      Images: [{ src: "https://ifh.cc/g/K77ZOV.jpg" }],
+      Images: [
+        { src: "https://ifh.cc/g/K77ZOV.jpg" },
+        { src: "https://ifh.cc/g/1TZ7lX.jpg" },
+        { src: "https://ifh.cc/g/pwwuM7.jpg" },
+      ],
       Comments: [
         {
           User: { nickname: "euna1" },
